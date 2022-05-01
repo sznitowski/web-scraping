@@ -1,0 +1,24 @@
+{
+  "name": "web-scraping",
+  "version": "1.0.0",
+  "description": "Web scraping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sznitowski/web-scraping.git"
+  },
+  "author": "Valentin Sznitowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sznitowski/web-scraping/issues"
+  },
+  "homepage": "https://github.com/sznitowski/web-scraping#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.3.1",
+    "puppeteer": "^13.7.0"
+  }
+}
